@@ -52,10 +52,10 @@ The script produces both visual and quantitative outputs, allowing for a thoroug
 The plots below show the results for two different days. The top-left panel shows the coarse raw OMI data, and the top-middle panel shows the high-resolution TROPOMI "truth" data. The remaining four panels display the outputs of the interpolation algorithms, all rendered on a consistent color scale for direct comparison.
 
 - **January 3, 2024:** A day with a concentrated pollution hotspot.  
-  ![January 3, 2024 Results](results/jan03.png)
+  ![January 3, 2024 Results](plot_20240103.png)
 
 - **January 2, 2024:** A day with more dispersed pollution.  
-  ![January 2, 2024 Results](results/jan02.png)
+  ![January 2, 2024 Results](plot_20240102.png)
 
 ### Quantitative Validation
 
