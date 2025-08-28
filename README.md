@@ -1,4 +1,5 @@
-# High-Resolution Air Pollution Mapping via Satellite Data Interpolation
+# Evaluating Interpolation Methods to Enhance OMI NO₂ Data Resolution over Delhi
+
 
 This project presents a Python-based framework for downscaling low-resolution satellite imagery of Nitrogen Dioxide (**NO₂**) using spatial interpolation techniques. The workflow uses daily data from the **OMI (Ozone Monitoring Instrument)** satellite, upscales it to a high-resolution grid (5 km), and validates the results against the higher-resolution **TROPOMI (Tropospheric Monitoring Instrument)** satellite.
 
