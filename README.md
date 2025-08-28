@@ -103,6 +103,3 @@ It is recommended to use a virtual environment.
 
 ```bash
 pip install -r requirements.txt
-
-
-
