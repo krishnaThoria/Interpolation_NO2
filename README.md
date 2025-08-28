@@ -106,14 +106,3 @@ pip install -r requirements.txt
 
 
 
----
-
-✅ Key things:  
-- Put **triple backticks (\`\`\`)** around the command so it shows as code.  
-- For the license, you don’t need extra `**` bold inside the link — just link it directly with `[MIT License](LICENSE)`  
-
-That way it will render neatly on GitHub.
-
----
-
-👉 Do you want me to also draft a **standard MIT LICENSE file** content for you (the one that goes in the `LICENSE` file in your repo)?
